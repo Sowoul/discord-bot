@@ -1,3 +1,5 @@
+#Final version of the discord bot, it has multiple fun commands, most of which are relevant to the general public as well.
+#The prefix of the bot is "$", so it can be used by using the symbol before the command, Eg. $snipe
 import discord
 from discord.ext import commands
 import asyncio
