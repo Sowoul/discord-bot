@@ -1,3 +1,4 @@
+#First version of the bot code, before the creation of my streaming project "BoredFlix", which was an inspiration for multiple other commands for the bot.
 import discord
 from discord.ext import commands
 import asyncio
